@@ -70,7 +70,6 @@ sub.addEventListener('click', (event) => {
 
     firstLastName(first_name);
     firstLastName(last_name);
-    // firstLastName(last_name);
 
     emailValid();
 
